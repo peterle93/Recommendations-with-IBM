@@ -10,3 +10,17 @@
 
 ## Project Motivation <a name="motivation"></a>
 ### Recommendations with IBM
+
+## Summary of Results <a name="results"></a>
+
+
+## Instructions: <a name="instructions"></a>
+
+
+## Libraries: <a name="libraries"></a>
+
+## File Descriptions <a name="descriptions"></a>
+
+## Acknowledgements <a name="acknowledgements"></a>
+1. https://www.ibm.com/ca-en
+2. https://www.udacity.com/

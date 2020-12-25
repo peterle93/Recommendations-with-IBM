@@ -11,6 +11,9 @@
 ## Project Motivation <a name="motivation"></a>
 ### Recommendations with IBM
 
+For this project, we will analyze the interactions users have with articles on the IBM Watson Studio platorm and provide recommendations on which new articles you think they will like. To determine which articles to show to each user, we will be performing a study of the data available on the IBM Watson Studio platform. 
+
+
 ## Summary of Results <a name="results"></a>
 
 

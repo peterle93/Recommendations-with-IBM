@@ -28,6 +28,10 @@ Matrix Factorization
 
 
 ## Libraries: <a name="libraries"></a>
+1. pandas
+2. numpy
+3. matplotlib
+4. pickle
 
 ## File Descriptions <a name="descriptions"></a>
 

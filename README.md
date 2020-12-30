@@ -13,13 +13,13 @@
 
 For this project, we will analyze the interactions users have with articles on the IBM Watson Studio platorm and provide recommendations on which new articles you think they will like. To determine which articles to show to each user, we will be performing a study of the data available on the IBM Watson Studio platform. 
 
-Exploratory Data Analysis
+I) Exploratory Data Analysis
 
-Rank Based Recommendations
+II) Rank Based Recommendations
 
-User-User Based Collaborative Filtering
+III) User-User Based Collaborative Filtering
 
-Matrix Factorization
+IV) Matrix Factorization
 
 ## Summary of Results <a name="results"></a>
 

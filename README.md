@@ -29,7 +29,7 @@ To build better recommendations for the users of IBM's platform, we could look a
 
 ### IV. Matrix Factorization
 
-We will complete machine learning approach to building recommendations. The user-item intereactions will build out a matrix decomposition where we'll gain an idea of how well we can predict new articles an individual might intereact with. We will also discuss which methods we will might use moving forward and how well our recommendations are working for engaging users.
+We will complete machine learning approach to building recommendations. The user-item intereactions will build out a matrix decomposition where we'll gain an idea of how well we can predict new articles an individual might intereact with. We will also discuss which methods we may use moving forward and how well our recommendations are working for engaging users.
 
 ## Summary of Results <a name="results"></a>
 

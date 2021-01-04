@@ -44,10 +44,8 @@ Python 3.6.6+
 1. pandas
 2. numpy
 3. matplotlib
-4. pickle
-5. IBM Watson Studio 
-6. matplotlib
-7. scikit-learn
+4. pickle 
+5. scikit-learn
 
 ## File Descriptions <a name="descriptions"></a>
 

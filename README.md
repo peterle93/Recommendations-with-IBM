@@ -49,6 +49,22 @@ Python 3.6.6+
 
 ## File Descriptions <a name="descriptions"></a>
 
+Recommendations_with_IBM.ipynb: Jupyter notebook containing main implementation and analysis.
+
+top_5.p: pickle file to test top 5 rank based recommendations
+
+top_10.p: pickle file to test top 10 rank based recommendations
+
+top_20.p: pickle file to test top 20 rank based recommendations
+
+user_item_matrix.p: pickle file to load the user_item matrix
+
+articles_community.csv: csv file containing the articles
+
+user-item-interactions.csv: csv file containing user interactions with articles
+
+project_tests.py: contains the unit tests for the solution It is recommended you run the solution from a jupyter notebook. Please visit https://jupyter.org/install for installation guide.
+
 ## Acknowledgements <a name="acknowledgements"></a>
 1. https://www.ibm.com/ca-en
 2. https://www.udacity.com/

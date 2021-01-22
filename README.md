@@ -33,6 +33,7 @@ We will complete machine learning approach to building recommendations. The user
 
 ## Summary of Results <a name="results"></a>
 
+The aim of this project is to analyse the user articles from articles_community.csv and the user interactions from user-item-interactions.csv and producing different recommendation engines and analyse their performance.
 
 ## Instructions: <a name="instructions"></a>
 

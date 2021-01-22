@@ -59,6 +59,8 @@ top_20.p: pickle file to test top 20 rank based recommendations
 
 user_item_matrix.p: pickle file to load the user_item matrix
 
+### data folder:
+
 articles_community.csv: csv file containing the articles
 
 user-item-interactions.csv: csv file containing user interactions with articles

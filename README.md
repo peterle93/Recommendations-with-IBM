@@ -37,9 +37,13 @@ We will complete machine learning approach to building recommendations. The user
 ## Instructions: <a name="instructions"></a>
 
 Clone Repo
+
 Clone this repo to your computer.
+
 Ensure jupyter is installed correctly using jupyter --version and this should return jupyter version
+
 cd to the location of the project home directory
+
 Execute Recommendations_with_IBM.ipynb
 
 ## Libraries and Dependencies: <a name="libraries"></a>

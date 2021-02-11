@@ -35,7 +35,7 @@ We will complete machine learning approach to building recommendations. The user
 
 Analyzed the user articles from articles_community.csv and the user interactions from user-item-interactions.csv and producing different recommendation engines and analyse their performance.
 
-## Instructions: <a name="instructions"></a>
+## Instructions <a name="instructions"></a>
 
 Clone Repo
 
@@ -47,7 +47,7 @@ cd to the location of the project home directory
 
 Execute Recommendations_with_IBM.ipynb
 
-## Libraries and Dependencies: <a name="libraries"></a>
+## Libraries and Dependencies <a name="libraries"></a>
 
 Python 3.6.6+
 

@@ -59,7 +59,7 @@ Python 3.6.6+
 
 ## File Descriptions <a name="descriptions"></a>
 
-Recommendations_with_IBM.ipynb: Jupyter notebook containing main implementation and analysis.
+**Recommendations_with_IBM.ipynb:** Jupyter notebook containing main implementation and analysis.
 
 top_5.p: pickle file to test top 5 rank based recommendations
 

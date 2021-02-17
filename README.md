@@ -37,7 +37,7 @@ Analyzed the user articles from articles_community.csv and the user interactions
 
 ## Instructions <a name="instructions"></a>
 
-Clone this repo to your computer.
+Clone this repo to your computer
 
 Ensure jupyter is installed correctly using jupyter --version and this should return jupyter version
 

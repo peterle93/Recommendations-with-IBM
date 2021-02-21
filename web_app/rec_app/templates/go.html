@@ -1,0 +1,20 @@
+{% extends "master.html" %}
+{% block title %}Article Lists for User {% endblock %}
+
+{% block message %}
+    <hr />
+    <h4 class="text-center">Input User ID</h4>
+    <p class="text-center"><i>{{query}}</i></p>
+{% endblock %}
+
+{% block content %}
+    <h1 class="text-center">Recommend Article List</h1>
+        <ul class="list-group">
+            {% for article in articles_result %}
+                <li class="list-group-item list-group-item-success text-center">{{article.replace('_', ' ').title()}}</li>
+            {% endfor %}
+
+        </div>
+    </div>
+
+{% endblock %}

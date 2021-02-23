@@ -35,6 +35,10 @@ We will complete machine learning approach to building recommendations. The user
 
 Analyzed the user articles from articles_community.csv and the user interactions from user-item-interactions.csv and producing different recommendation engines and analyse their performance.
 
+### Web app: 
+
+The web app can be accessed here: https://recommendationibm.herokuapp.com/
+
 ## Instructions <a name="instructions"></a>
 
 Clone this repo to your computer

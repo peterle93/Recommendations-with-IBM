@@ -39,6 +39,12 @@ Analyzed the user articles from articles_community.csv and the user interactions
 
 The web app can be accessed here: https://recommendationibm.herokuapp.com/
 
+The web server run the recommendation by the following steps:
+
+- The web server invokes recommendation_app.py via Procfile
+- recommendation_app.py invokes rec_app.__init__.py and listen on 0.0.0.0:3001
+- rec_app.__init__.py invokes rec_app.run.py to response web request.
+
 ## Instructions <a name="instructions"></a>
 
 Clone this repo to your computer
@@ -48,6 +54,7 @@ Ensure jupyter is installed correctly using jupyter --version and this should re
 cd to the location of the project home directory
 
 Execute Recommendations_with_IBM.ipynb
+
 
 ## Libraries and Dependencies <a name="libraries"></a>
 
@@ -71,11 +78,11 @@ top_20.p: pickle file to test top 20 rank based recommendations
 
 user_item_matrix.p: pickle file to load the user_item matrix
 
-### data folder:
+### data:
 
-articles_community.csv: csv file containing the articles
+- articles_community.csv: csv file containing the articles
 
-user-item-interactions.csv: csv file containing user interactions with articles
+- user-item-interactions.csv: csv file containing user interactions with articles
 
 project_tests.py: contains the unit tests for the solution It is recommended you run the solution from a jupyter notebook. Please visit https://jupyter.org/install for installation guide.
 
